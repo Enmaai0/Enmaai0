@@ -1,17 +1,12 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/Enmaai0" width="200" height="200" style="border-radius:50%"/>
+  <img src="https://avatars.githubusercontent.com/u/Enmaai0" width="200" height="200" style="border-radius:50%; border: 5px solid #70a5fd; box-shadow: 0 0 20px #70a5fd;"/>
   
   # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Enmaai
 </div>
 
 <div align="center">
-  <img src="[https://komarev.com/ghpvc/?username=Enmaai0&color=blueviolet&style=flat-square"](https://avatars.githubusercontent.com/u/Enmaai0) alt="Profile Views"/>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Enmaai0&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
-
 
 ## 🚀 About Me
 
