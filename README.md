@@ -5,4 +5,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Enmaai0&theme=dark)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,react,spring,linux,java,py,mysql,redis,rabbitmq,elasticsearch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c, cpp, java, mysql, redis, rabbitmq, elasticsearch, bash,react, spring, linux, py,)](https://skillicons.dev)
