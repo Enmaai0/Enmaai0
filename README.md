@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Enmaai0&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="[https://komarev.com/ghpvc/?username=Enmaai0&color=blueviolet&style=flat-square"](https://avatars.githubusercontent.com/u/Enmaai0) alt="Profile Views"/>
 </div>
 
 <div align="center">
