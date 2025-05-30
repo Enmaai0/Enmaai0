@@ -64,7 +64,7 @@
 </div>
 
 ## 🎮 Game Development Projects
-- Coming soon...
+- Flappy Bird Unity demo for learning purposes
 
 ## 📈 Activity Graph
 <div align="center">
