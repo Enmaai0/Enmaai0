@@ -8,13 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=Enmaai0&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
 
-## 🚀 About Me
-- 🔭 I'm passionate about backend development, system architecture, and game development
-- 🌱 Currently learning distributed systems and cloud architecture
-- 💡 I enjoy solving complex problems with elegant solutions
-- 🎮 Experience in building interactive applications with Unity
+## About Me
+- I'm passionate about backend development, system architecture, and game development
+- Currently learning distributed systems and cloud architecture
+- I enjoy solving complex problems with elegant solutions
+- Experience in building interactive applications with Unity
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enmaai0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enmaai0&layout=compact&langs_count=8&theme=tokyonight&border_radius=8&hide_border=true&cache_seconds=1800" />
@@ -24,7 +24,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enmaai0&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -63,15 +63,15 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 </div>
 
-## 🎮 Game Development Projects
+## Game Development Projects
 - Flappy Bird Unity demo for learning purposes
 
-## 📈 Activity Graph
+## Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enmaai0&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Enmaai0&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 </div>
