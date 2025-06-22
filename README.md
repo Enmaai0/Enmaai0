@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Enmaai0.png" width="200" height="200"/>
   
-  # <width="30px"> Hi, I'm Enmaai
+  # Hi, I'm Enmaai
 </div>
 
 <div align="center">
