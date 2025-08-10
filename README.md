@@ -8,12 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=Enmaai0&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
 
-## About Me
-- I'm passionate about backend development, system architecture, and game development
-- Currently learning distributed systems and cloud architecture
-- I enjoy solving complex problems with elegant solutions
-- Experience in building interactive applications with Unity
-
 ## GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enmaai0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=true" />
